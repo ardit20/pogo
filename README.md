@@ -4,8 +4,11 @@
 The goal of this script is to provide an interactive way to explore the relationship between Pokemon types and their scores.
 
 ## Libraries
+
 pandas: used to load and manipulate the Pokemon dataset
+
 streamlit: used to create the app interface and display the filtered Pokemon dataset and scatterplot
+
 plotly.express: used to create the scatterplot of Pokemon scores
 
 ## Description
