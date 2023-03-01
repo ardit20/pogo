@@ -1,0 +1,831 @@
+Pokemon,Score,Type 1,Type 2
+Registeel,97.3,steel,none
+Stunfisk (Galarian),96.8,ground,steel
+Scrafty,95,dark,fighting
+Medicham,94.8,fighting,psychic
+Swampert,94.8,water,ground
+Swampert (Shadow),94,water,ground
+Trevenant,93.7,ghost,grass
+Bastiodon,93.6,rock,steel
+Noctowl,93.5,normal,flying
+Pelipper,93.5,water,flying
+Gliscor,92.6,ground,flying
+Lickitung,92.6,normal,none
+Altaria,92.5,dragon,flying
+Lanturn,92.1,water,electric
+Pidgeot,91.7,normal,flying
+Sableye,91.5,dark,ghost
+Dubwool,91.4,normal,none
+Gliscor (Shadow),91.1,ground,flying
+Registeel (Shadow),91,steel,none
+Machamp (Shadow),90.8,fighting,none
+Mandibuzz,90.5,dark,flying
+Mantine,90.4,water,flying
+Whiscash,90.4,water,ground
+Diggersby,90.2,normal,ground
+Umbreon,90.2,dark,none
+Vigoroth,90.2,normal,none
+Guzzlord,90.1,dark,dragon
+Regirock,90.1,rock,none
+Wobbuffet,90,psychic,none
+Kommo-o,89.9,dragon,fighting
+Ninetales (Alolan) (Shadow),89.9,ice,fairy
+Ninetales (Alolan),89.7,ice,fairy
+Aurorus,89.2,rock,ice
+Deoxys (Defense),89.2,psychic,none
+Cresselia,88.9,psychic,none
+Machamp,88.7,fighting,none
+Abomasnow (Shadow),88.6,grass,ice
+Toxapex,88.5,poison,water
+Walrein (Shadow),88.5,ice,water
+Dragonite (Shadow),88.4,dragon,flying
+Lurantis,88.2,grass,none
+Togedemaru,88.1,electric,steel
+Snorlax,87.9,normal,none
+Azumarill,87.8,water,fairy
+Steelix,87.8,steel,ground
+Zweilous,87.8,dark,dragon
+Skarmory,87.7,steel,flying
+Pachirisu,87.6,electric,none
+Froslass,87.4,ice,ghost
+Runerigus,87.4,ground,ghost
+Golbat (Shadow),87.3,poison,flying
+Hakamo-o,87.2,dragon,fighting
+Walrein,87.2,ice,water
+Sandslash (Alolan) (Shadow),87.1,ice,steel
+Buzzwole,87,bug,fighting
+Dragonair (Shadow),87,dragon,none
+Obstagoon,86.8,dark,normal
+Dragonair,86.7,dragon,none
+Munchlax,86.7,normal,none
+Tropius,86.7,grass,flying
+Cofagrigus,86.6,ghost,none
+Dragonite,86.6,dragon,flying
+Lucario,86.6,fighting,steel
+Abomasnow,86.5,grass,ice
+Quagsire,86.5,water,ground
+Araquanid,86.4,water,bug
+Dewgong,86.4,water,ice
+Meganium,86.4,grass,none
+Golbat,86.3,poison,flying
+Charizard (Shadow),86.2,fire,flying
+Gligar (Shadow),86.2,ground,flying
+Mew,86.1,psychic,none
+Sableye (Shadow),86.1,dark,ghost
+Castform (Snowy),85.9,ice,none
+Sirfetch'd,85.9,fighting,none
+Stunfisk,85.9,ground,electric
+Gligar,85.8,ground,flying
+Charizard,85.7,fire,flying
+Chesnaught,85.7,grass,fighting
+Gourgeist (Super),85.7,ghost,grass
+Qwilfish (Hisuian),85.6,dark,poison
+Jumpluff,85.5,grass,flying
+Snorlax (Shadow),85.5,normal,none
+Zapdos (Shadow),85.5,electric,flying
+Beedrill (Shadow),85.4,bug,poison
+Politoed (Shadow),85.4,water,none
+Tapu Fini,85.4,water,fairy
+Jumpluff (Shadow),85.3,grass,flying
+Perrserker,85.3,steel,none
+Steelix (Shadow),85.3,steel,ground
+Regice,85.2,ice,none
+Raikou (Shadow),85.1,electric,none
+Sneasler,85.1,fighting,poison
+Galvantula,85,bug,electric
+Gourgeist (Large),85,ghost,grass
+Primeape,84.9,fighting,none
+Flygon (Shadow),84.7,ground,dragon
+Meganium (Shadow),84.7,grass,none
+Zapdos,84.7,electric,flying
+Lickilicky,84.6,normal,none
+Zangoose,84.6,normal,none
+Falinks,84.5,fighting,none
+Excadrill,84.3,ground,steel
+Gourgeist (Small),84.3,ghost,grass
+Weezing (Galarian),84.3,poison,fairy
+Escavalier,84.2,bug,steel
+Serperior,84.2,grass,none
+Castform (Rainy),84.1,water,none
+Gourgeist (Average),84.1,ghost,grass
+Hitmontop,84.1,fighting,none
+Machoke,84.1,fighting,none
+Overqwil,84.1,dark,poison
+Toxicroak,84.1,poison,fighting
+Sandslash (Alolan),84,ice,steel
+Skarmory (Shadow),84,steel,flying
+Hitmonchan (Shadow),83.9,fighting,none
+Machoke (Shadow),83.8,fighting,none
+Ninetales (Shadow),83.8,fire,none
+Samurott,83.7,water,none
+Venusaur,83.7,grass,poison
+Ninetales,83.6,fire,none
+Venusaur (Shadow),83.6,grass,poison
+Ferrothorn,83.4,grass,steel
+Marowak (Alolan) (Shadow),83.4,fire,ghost
+Marshtomp,83.4,water,ground
+Victini,83.4,psychic,fire
+Probopass,83.3,rock,steel
+Blastoise,83.2,water,none
+Galvantula (Shadow),83.2,bug,electric
+Goodra,83.2,dragon,none
+Luxray (Shadow),83.2,electric,none
+Forretress,83,bug,steel
+Quagsire (Shadow),83,water,ground
+Raikou,83,electric,none
+Shiftry (Shadow),83,grass,dark
+Hitmonchan,82.9,fighting,none
+Blaziken,82.8,fire,fighting
+Dunsparce,82.8,normal,none
+Hariyama,82.8,fighting,none
+Magnezone (Shadow),82.8,electric,steel
+Nidoqueen (Shadow),82.8,poison,ground
+Pangoro,82.8,fighting,dark
+Electrode (Hisuian),82.6,electric,grass
+Jellicent,82.6,water,ghost
+Sudowoodo,82.5,rock,none
+Wigglytuff,82.5,normal,fairy
+Drapion (Shadow),82.4,poison,dark
+Marshtomp (Shadow),82.4,water,ground
+Bewear,82.3,normal,fighting
+Lapras,82.3,water,ice
+Sealeo (Shadow),82.2,ice,water
+Nidoqueen,82.1,poison,ground
+Swellow,82.1,normal,flying
+Zapdos (Galarian),82.1,fighting,flying
+Amaura,82,rock,ice
+Druddigon,81.9,dragon,none
+Flygon,81.9,ground,dragon
+Magnezone,81.9,electric,steel
+Piloswine,81.9,ice,ground
+Raticate (Alolan),81.9,dark,normal
+Granbull (Shadow),81.8,fairy,none
+Politoed,81.8,water,none
+Empoleon,81.7,water,steel
+Zebstrika,81.6,electric,none
+Dedenne,81.5,electric,fairy
+Lapras (Shadow),81.5,water,ice
+Sealeo,81.5,ice,water
+Articuno,81.4,ice,flying
+Bayleef (Shadow),81.4,grass,none
+Cradily,81.4,rock,grass
+Moltres (Galarian),81.4,dark,flying
+Sneasel (Hisuian),81.4,fighting,poison
+Miltank,81.3,normal,none
+Poliwrath (Shadow),81.2,water,fighting
+Bellossom (Shadow),81.1,grass,none
+Hariyama (Shadow),81.1,fighting,none
+Shiftry,81.1,grass,dark
+Bellossom,81,grass,none
+Rayquaza,81,dragon,flying
+Beedrill,80.9,bug,poison
+Gardevoir (Shadow),80.9,psychic,fairy
+Raichu,80.9,electric,none
+Gyarados (Shadow),80.8,water,flying
+Latios (Shadow),80.8,dragon,psychic
+Melmetal,80.8,steel,none
+Pinsir (Shadow),80.8,bug,none
+Victreebel (Shadow),80.8,grass,poison
+Grimer (Alolan),80.7,poison,dark
+Relicanth,80.7,water,rock
+Skuntank,80.7,poison,dark
+Skuntank (Shadow),80.6,poison,dark
+Piloswine (Shadow),80.5,ice,ground
+Zebstrika (Shadow),80.5,electric,none
+Blastoise (Shadow),80.4,water,none
+Clefable,80.4,fairy,none
+Heracross,80.4,bug,fighting
+Slurpuff,80.4,fairy,none
+Grimer (Shadow),80.3,poison,none
+Tyrunt,80.3,rock,dragon
+Aromatisse,80.2,fairy,none
+Magneton (Shadow),80.2,electric,steel
+Sudowoodo (Shadow),80.2,rock,none
+Drapion,80.1,poison,dark
+Drifblim,80.1,ghost,flying
+Farfetch'd (Galarian),80.1,fighting,none
+Gyarados,80.1,water,flying
+Probopass (Shadow),80.1,rock,steel
+Raichu (Alolan),80.1,electric,psychic
+Alomomola,80,water,none
+Fraxure,80,dragon,none
+Malamar,80,dark,psychic
+Charjabug,79.9,bug,electric
+Gallade,79.9,psychic,fighting
+Hypno,79.9,psychic,none
+Quilladin,79.9,grass,none
+Sceptile,79.9,grass,none
+Barbaracle,79.8,rock,water
+Greedent,79.8,normal,none
+Lileep,79.8,rock,grass
+Castform (Sunny),79.7,fire,none
+Electivire,79.7,electric,none
+Electivire (Shadow),79.7,electric,none
+Genesect,79.7,bug,steel
+Linoone,79.7,normal,none
+Lycanroc (Midnight),79.7,rock,none
+Muk (Alolan),79.7,poison,dark
+Pinsir,79.7,bug,none
+Gloom (Shadow),79.6,grass,poison
+Qwilfish,79.5,water,poison
+Raticate (Alolan) (Shadow),79.5,dark,normal
+Dragalge,79.4,poison,dragon
+Hydreigon,79.4,dark,dragon
+Spritzee,79.4,fairy,none
+Sylveon,79.4,fairy,none
+Talonflame,79.4,fire,flying
+Forretress (Shadow),79.3,bug,steel
+Gengar,79.3,ghost,poison
+Grimer,79.3,poison,none
+Marowak (Alolan),79.3,fire,ghost
+Donphan,79.2,ground,none
+Magnemite (Shadow),79.2,electric,steel
+Avalugg,79.1,ice,none
+Spinda,79.1,normal,none
+Graveler (Alolan),79,rock,electric
+Honchkrow,79,dark,flying
+Latios,79,dragon,psychic
+Leafeon,79,grass,none
+Muk (Shadow),79,poison,none
+Poliwrath,79,water,fighting
+Seaking,79,water,none
+Tangrowth (Shadow),79,grass,none
+Chansey,78.9,normal,none
+Cradily (Shadow),78.9,rock,grass
+Dusclops,78.9,ghost,none
+Grovyle,78.9,grass,none
+Whimsicott,78.9,grass,fairy
+Celesteela,78.8,steel,flying
+Vileplume (Shadow),78.8,grass,poison
+Ariados,78.7,bug,poison
+Magmar (Shadow),78.7,fire,none
+Ivysaur,78.6,grass,poison
+Servine,78.6,grass,none
+Tangrowth,78.5,grass,none
+Dusclops (Shadow),78.4,ghost,none
+Articuno (Shadow),78.3,ice,flying
+Florges,78.3,fairy,none
+Golem (Alolan),78.3,rock,electric
+Haunter,78.3,ghost,poison
+Bonsly,78.2,rock,none
+Gastrodon,78.2,water,ground
+Grotle (Shadow),78.2,grass,none
+Jirachi,78.2,steel,psychic
+Rufflet,78.2,normal,flying
+Bayleef,78,grass,none
+Haxorus,78,dragon,none
+Magneton,78,electric,steel
+Mamoswine,78,ice,ground
+Moltres (Shadow),78,fire,flying
+Muk,78,poison,none
+Wailmer,77.9,water,none
+Wobbuffet (Shadow),77.9,psychic,none
+Granbull,77.7,fairy,none
+Sandshrew (Alolan),77.7,ice,steel
+Farfetch'd,77.6,normal,flying
+Grotle,77.6,grass,none
+Magmortar (Shadow),77.5,fire,none
+Tirtouga,77.5,water,rock
+Sandslash,77.4,ground,none
+Wailmer (Shadow),77.4,water,none
+Hitmonlee,77.3,fighting,none
+Honchkrow (Shadow),77.3,dark,flying
+Hypno (Shadow),77.3,psychic,none
+Litleo,77.3,fire,normal
+Lugia,77.3,psychic,flying
+Gallade (Shadow),77.2,psychic,fighting
+Luxio (Shadow),77.2,electric,none
+Magnemite,77.2,electric,steel
+Mawile (Shadow),77.2,steel,fairy
+Scizor (Shadow),77.2,bug,steel
+Vullaby,77.2,dark,flying
+Poliwhirl (Shadow),77.1,water,none
+Sandshrew (Alolan) (Shadow),77.1,ice,steel
+Vaporeon,77.1,water,none
+Mawile,77,steel,fairy
+Golduck (Shadow),76.9,water,none
+Luxio,76.9,electric,none
+Ampharos (Shadow),76.7,electric,none
+Bronzong,76.7,steel,psychic
+Torterra (Shadow),76.7,grass,ground
+Primarina,76.6,water,fairy
+Hitmonlee (Shadow),76.5,fighting,none
+Ampharos,76.4,electric,none
+Electabuzz (Shadow),76.4,electric,none
+Wormadam (Trash),76.4,bug,steel
+Emolga,76.3,electric,flying
+Poliwhirl,76.3,water,none
+Castform,76.2,normal,none
+Gardevoir,76.2,psychic,fairy
+Mamoswine (Shadow),76.2,ice,ground
+Tentacruel,76.2,water,poison
+Ivysaur (Shadow),76.1,grass,poison
+Magcargo,76.1,fire,rock
+Linoone (Galarian),76,dark,normal
+Rapidash (Galarian),76,psychic,fairy
+Marowak (Shadow),75.9,ground,none
+Gurdurr,75.8,fighting,none
+Victreebel,75.8,grass,poison
+Electrode (Shadow),75.7,electric,none
+Gloom,75.7,grass,poison
+Salazzle,75.7,poison,fire
+Kartana,75.6,grass,steel
+Sandslash (Shadow),75.6,ground,none
+Carracosta,75.5,water,rock
+Dugtrio,75.5,ground,none
+Feraligatr (Shadow),75.5,water,none
+Glalie,75.5,ice,none
+Swoobat,75.5,psychic,flying
+Decidueye,75.4,grass,ghost
+Golduck,75.4,water,none
+Staravia,75.4,normal,flying
+Staravia (Shadow),75.3,normal,flying
+Bibarel,75.2,normal,water
+Electrode,75.2,electric,none
+Marowak,75.2,ground,none
+Moltres,75.2,fire,flying
+Typhlosion,75.2,fire,none
+Vespiquen,75.2,bug,flying
+Aggron (Shadow),75.1,steel,rock
+Durant,75.1,bug,steel
+Floette,75.1,fairy,none
+Leavanny,75.1,bug,grass
+Shelgon,75.1,dragon,none
+Dartrix,75,grass,flying
+Girafarig,75,normal,psychic
+Milotic,75,water,none
+Omastar (Shadow),75,rock,water
+Conkeldurr,74.9,fighting,none
+Klefki,74.9,steel,fairy
+Ledian,74.9,bug,flying
+Roserade,74.9,grass,poison
+Scizor,74.9,bug,steel
+Carnivine,74.8,grass,none
+Lopunny,74.8,normal,none
+Seismitoad,74.8,water,ground
+Pumpkaboo (Super),74.7,ghost,grass
+Wailord,74.7,water,none
+Bibarel (Shadow),74.6,normal,water
+Mewtwo (Shadow),74.6,psychic,none
+Minun,74.6,electric,none
+Scolipede,74.4,bug,poison
+Girafarig (Shadow),74.3,normal,psychic
+Machop,74.3,fighting,none
+Pawniard,74.3,dark,steel
+Rapidash,74.3,fire,none
+Dewott,74.2,water,none
+Luxray,74.2,electric,none
+Vileplume,74.1,grass,poison
+Crawdaunt,74,water,dark
+Oranguru,74,normal,psychic
+Beartic,73.9,ice,none
+Cherrim (Sunshine),73.9,grass,none
+Fletchinder,73.9,fire,flying
+Lugia (Shadow),73.9,psychic,flying
+Machop (Shadow),73.9,fighting,none
+Oddish (Shadow),73.9,grass,poison
+Wailord (Shadow),73.9,water,none
+Omastar,73.8,rock,water
+Exeggutor (Alolan) (Shadow),73.6,grass,dragon
+Pumpkaboo (Large),73.6,ghost,grass
+Feraligatr,73.5,water,none
+Palpitoad,73.5,water,ground
+Crustle,73.4,bug,rock
+Magmortar,73.4,fire,none
+Seviper,73.4,poison,none
+Growlithe (Shadow),73.3,fire,none
+Torterra,73.3,grass,ground
+Archen,73.1,rock,flying
+Manectric,73.1,electric,none
+Pyroar,73.1,fire,normal
+Golisopod,73,bug,water
+Ludicolo,73,water,grass
+Celebi,72.9,psychic,grass
+Darumaka,72.9,fire,none
+Hippowdon,72.9,ground,none
+Typhlosion (Shadow),72.9,fire,none
+Weepinbell (Shadow),72.9,grass,poison
+Wartortle,72.8,water,none
+Croconaw (Shadow),72.7,water,none
+Porygon2,72.7,normal,none
+Pumpkaboo (Average),72.7,ghost,grass
+Simisage,72.7,grass,none
+Spiritomb,72.7,ghost,dark
+Uxie,72.7,psychic,none
+Geodude (Alolan),72.6,rock,electric
+Lileep (Shadow),72.6,rock,grass
+Nuzleaf (Shadow),72.6,grass,dark
+Swadloon,72.5,bug,grass
+Drifloon,72.4,ghost,flying
+Nuzleaf,72.4,grass,dark
+Scraggy,72.4,dark,fighting
+Staraptor,72.4,normal,flying
+Aggron,72.3,steel,rock
+Lumineon,72.3,water,none
+Swalot,72.3,poison,none
+Bisharp,72.2,dark,steel
+Manectric (Shadow),72.2,electric,none
+Nidoking (Shadow),72.2,poison,ground
+Archeops,72.1,rock,flying
+Bouffalant,72.1,normal,none
+Vikavolt,72.1,bug,electric
+Electabuzz,72,electric,none
+Huntail,72,water,none
+Nidoking,72,poison,ground
+Articuno (Galarian),71.9,psychic,flying
+Houndoom (Shadow),71.9,dark,fire
+Krookodile,71.9,ground,dark
+Arcanine,71.7,fire,none
+Kingdra,71.7,water,dragon
+Torkoal,71.7,fire,none
+Turtwig (Shadow),71.7,grass,none
+Croconaw,71.5,water,none
+Latias (Shadow),71.5,dragon,psychic
+Scyther (Shadow),71.5,bug,flying
+Staraptor (Shadow),71.5,normal,flying
+Vibrava (Shadow),71.5,ground,dragon
+Charmeleon (Shadow),71.3,fire,none
+Furret,71.3,normal,none
+Lairon (Shadow),71.3,steel,rock
+Weavile,71.3,dark,ice
+Weavile (Shadow),71.3,dark,ice
+Graveler,71.2,rock,ground
+Prinplup,71.2,water,none
+Yanmega,71.2,bug,flying
+Banette,71.1,ghost,none
+Alakazam (Shadow),71,psychic,none
+Cloyster,71,water,ice
+Hippowdon (Shadow),71,ground,none
+Magmar,71,fire,none
+Ponyta,71,fire,none
+Pumpkaboo (Small),71,ghost,grass
+Yanma,70.9,bug,flying
+Exeggutor (Alolan),70.8,grass,dragon
+Nidorino,70.8,poison,none
+Amoonguss,70.7,grass,poison
+Arcanine (Shadow),70.7,fire,none
+Comfey,70.7,fairy,none
+Golurk (Shadow),70.7,ground,ghost
+Combusken,70.6,fire,fighting
+Furfrou,70.6,normal,none
+Incineroar,70.6,fire,dark
+Kingdra (Shadow),70.6,water,dragon
+Weepinbell,70.5,grass,poison
+Clamperl,70.4,water,none
+Klinklang,70.4,steel,none
+Nidorina (Shadow),70.4,poison,none
+Armaldo (Shadow),70.3,rock,bug
+Cryogonal,70.3,ice,none
+Tyrantrum,70.3,rock,dragon
+Alakazam,70.2,psychic,none
+Greninja,70.2,water,dark
+Growlithe,70.2,fire,none
+Infernape,70.2,fire,fighting
+Kricketune,70.2,bug,none
+Corsola,70.1,water,rock
+Mantyke,70.1,water,flying
+Oddish,70.1,grass,poison
+Tangela,70.1,grass,none
+Dusknoir,70,ghost,none
+Eelektrik,70,electric,none
+Entei,70,fire,none
+Gholdengo,70,steel,ghost
+Entei (Shadow),69.9,fire,none
+Parasect,69.9,bug,grass
+Rotom (Wash),69.9,electric,water
+Shelgon (Shadow),69.9,dragon,none
+Garchomp,69.8,dragon,ground
+Lairon,69.8,steel,rock
+Vibrava,69.8,ground,dragon
+Darmanitan (Standard),69.7,fire,none
+Plusle,69.7,electric,none
+Porygon2 (Shadow),69.7,normal,none
+Basculin,69.6,water,none
+Claydol,69.6,ground,psychic
+Smoochum,69.6,ice,psychic
+Aerodactyl (Shadow),69.5,rock,flying
+Breloom,69.5,grass,fighting
+Latias,69.5,dragon,psychic
+Slowpoke (Galarian),69.5,psychic,none
+Charmeleon,69.4,fire,none
+Ho-Oh,69.4,fire,flying
+Raticate,69.4,normal,none
+Crobat (Shadow),69.3,poison,flying
+Delcatty,69.3,normal,none
+Growlithe (Hisuian),69.3,fire,rock
+Heatmor,69.3,fire,none
+Turtwig,69.3,grass,none
+Houndoom,69.2,dark,fire
+Nidorino (Shadow),69.2,poison,none
+Golurk,69.1,ground,ghost
+Slowbro (Galarian),69.1,poison,psychic
+Tangela (Shadow),69,grass,none
+Dwebble,68.9,bug,rock
+Jolteon,68.9,electric,none
+Stufful,68.9,normal,fighting
+Karrablast,68.8,bug,none
+Purugly,68.8,normal,none
+Quilava (Shadow),68.8,fire,none
+Braixen,68.7,fire,none
+Klang,68.7,steel,none
+Magby,68.7,fire,none
+Banette (Shadow),68.6,ghost,none
+Porygon,68.6,normal,none
+Vanillish,68.6,ice,none
+Cloyster (Shadow),68.5,water,ice
+Eelektross,68.5,electric,none
+Flareon,68.5,fire,none
+Kabutops,68.5,rock,water
+Monferno,68.5,fire,fighting
+Aron (Shadow),68.3,steel,rock
+Crobat,68.3,poison,flying
+Emboar,68.2,fire,fighting
+Simipour,68.1,water,none
+Torracat,68.1,fire,none
+Aron,68,steel,rock
+Graveler (Shadow),68,rock,ground
+Pignite,68,fire,fighting
+Scyther,68,bug,flying
+Golem,67.8,rock,ground
+Omanyte (Shadow),67.8,rock,water
+Tranquill,67.8,normal,flying
+Gigalith,67.6,rock,none
+Glaceon,67.6,ice,none
+Murkrow,67.6,dark,flying
+Stantler,67.6,normal,none
+Suicune,67.6,water,none
+Arcanine (Hisuian),67.5,fire,rock
+Dusknoir (Shadow),67.5,ghost,none
+Kingler,67.5,water,none
+Mightyena (Shadow),67.4,dark,none
+Quilava,67.4,fire,none
+Sliggoo,67.4,dragon,none
+Stoutland,67.3,normal,none
+Armaldo,67.1,rock,bug
+Chandelure,67,ghost,fire
+Dugtrio (Alolan) (Shadow),67,ground,steel
+Dustox,67,bug,poison
+Masquerain,67,bug,flying
+Tyranitar (Shadow),67,rock,dark
+Sneasel,66.9,dark,ice
+Stantler (Shadow),66.9,normal,none
+Zoroark,66.9,dark,none
+Kangaskhan,66.8,normal,none
+Metagross,66.8,steel,psychic
+Gabite,66.7,dragon,ground
+Mightyena,66.7,dark,none
+Nidorina,66.7,poison,none
+Salamence (Shadow),66.7,dragon,flying
+Teddiursa (Shadow),66.7,normal,none
+Camerupt,66.5,fire,ground
+Darumaka (Galarian),66.5,ice,none
+Metang,66.5,steel,psychic
+Ursaring,66.5,normal,none
+Amoonguss (Shadow),66.4,grass,poison
+Espeon,66.3,psychic,none
+Gothitelle,66.3,psychic,none
+Ho-Oh (Shadow),66.3,fire,flying
+Suicune (Shadow),66.3,water,none
+Geodude (Shadow),66.2,rock,ground
+Golett (Shadow),66.2,ground,ghost
+Wartortle (Shadow),66.2,water,none
+Garbodor,66.1,poison,none
+Golem (Shadow),66.1,rock,ground
+Stunky (Shadow),66,poison,dark
+Camerupt (Shadow),65.9,fire,ground
+Exeggutor,65.9,grass,psychic
+Metagross (Shadow),65.9,steel,psychic
+Persian (Alolan),65.9,dark,none
+Rhyperior,65.9,ground,rock
+Sandshrew,65.9,ground,none
+Snover,65.9,grass,ice
+Exeggutor (Shadow),65.8,grass,psychic
+Seel,65.8,water,none
+Exeggcute,65.7,grass,psychic
+Ursaring (Shadow),65.7,normal,none
+Wormadam (Plant),65.7,bug,grass
+Rhydon,65.6,ground,rock
+Sunflora,65.6,grass,none
+Sandshrew (Shadow),65.5,ground,none
+Wormadam (Sandy),65.5,bug,ground
+Lombre,65.4,water,grass
+Exeggcute (Shadow),65.3,grass,psychic
+Murkrow (Shadow),65.3,dark,flying
+Venomoth (Shadow),65.3,bug,poison
+Chinchou,65.2,water,electric
+Hippopotas,65.2,ground,none
+Liepard (Shadow),65.2,dark,none
+Teddiursa,65.2,normal,none
+Kecleon,65.1,normal,none
+Ninjask,65.1,bug,flying
+Aerodactyl,65,rock,flying
+Frogadier,65,water,none
+Golett,65,ground,ghost
+Onix,65,rock,ground
+Gothorita,64.9,psychic,none
+Ursaluna,64.9,ground,normal
+Metang (Shadow),64.8,steel,psychic
+Slowpoke,64.8,water,psychic
+Tyranitar,64.8,rock,dark
+Dugtrio (Alolan),64.7,ground,steel
+Misdreavus (Shadow),64.7,ghost,none
+Omanyte,64.7,rock,water
+Chimecho,64.6,psychic,none
+Sharpedo,64.6,water,dark
+Sawk,64.5,fighting,none
+Delphox,64.4,fire,psychic
+Elekid,64.4,electric,none
+Toucannon,64.4,normal,flying
+Lycanroc (Midday),64.3,rock,none
+Mr. Rime,64.3,ice,psychic
+Simisear,64.3,fire,none
+Togetic,64.3,fairy,flying
+Boldore,64.2,rock,none
+Heliolisk,64.2,electric,normal
+Mienshao,64.2,fighting,none
+Venomoth,64.2,bug,poison
+Vivillon,64.2,bug,flying
+Mismagius,64.1,ghost,none
+Chespin,64,grass,none
+Pancham,64,fighting,none
+Pidgeotto,64,normal,flying
+Skrelp,64,poison,water
+Rhyhorn,63.9,ground,rock
+Sneasel (Shadow),63.9,dark,ice
+Aipom (Shadow),63.8,normal,none
+Hippopotas (Shadow),63.8,ground,none
+Snover (Shadow),63.8,grass,ice
+Cinccino,63.7,normal,none
+Espurr,63.5,psychic,none
+Lampent,63.4,ghost,fire
+Slowpoke (Shadow),63.4,water,psychic
+Tauros,63.4,normal,none
+Togekiss,63.4,fairy,flying
+Weezing (Shadow),63.4,poison,none
+Brionne,63.3,water,none
+Houndour (Shadow),63.3,dark,fire
+Misdreavus,63.3,ghost,none
+Rotom (Mow),63.3,electric,grass
+Deerling,63.2,normal,grass
+Kabuto,63.2,rock,water
+Raticate (Shadow),63.2,normal,none
+Buneary,63.1,normal,none
+Darmanitan (Galarian),63.1,ice,none
+Frillish,63,water,ghost
+Liepard,63,dark,none
+Slowbro,63,water,psychic
+Onix (Shadow),62.9,rock,ground
+Geodude,62.8,rock,ground
+Dugtrio (Shadow),62.7,ground,none
+Salamence,62.7,dragon,flying
+Slowking,62.7,water,psychic
+Bulbasaur,62.6,grass,poison
+Slowbro (Shadow),62.6,water,psychic
+Stunky,62.6,poison,dark
+Unfezant,62.6,normal,flying
+Weezing,62.5,poison,none
+Slowking (Shadow),62.4,water,psychic
+Ursaluna (Shadow),62.4,ground,normal
+Exploud (Shadow),62.3,normal,none
+Loudred (Shadow),62.3,normal,none
+Meowstic (Female),62.3,psychic,none
+Roggenrola,62.3,rock,none
+Oricorio (Pom-Pom),62.1,electric,flying
+Bulbasaur (Shadow),62,grass,poison
+Flaaffy (Shadow),61.9,electric,none
+Houndour,61.9,dark,fire
+Lilligant,61.8,grass,none
+Mankey,61.8,fighting,none
+Bergmite,61.7,ice,none
+Lunatone,61.7,rock,psychic
+Phanpy,61.7,ground,none
+Solrock,61.7,rock,psychic
+Illumise,61.6,bug,none
+Persian (Shadow),61.6,normal,none
+Roselia,61.6,grass,poison
+Ambipom (Shadow),61.5,normal,none
+Flaaffy,61.5,electric,none
+Meowstic (Male),61.5,psychic,none
+Oricorio (Sensu),61.5,ghost,flying
+Octillery,61.4,water,none
+Persian,61.4,normal,none
+Porygon (Shadow),61.4,normal,none
+Eevee,61.3,normal,none
+Mr. Mime (Galarian),61.2,ice,psychic
+Absol (Shadow),60.9,dark,none
+Dodrio,60.9,normal,flying
+Drilbur,60.9,ground,none
+Maractus,60.9,grass,none
+Mismagius (Shadow),60.8,ghost,none
+Swanna (Shadow),60.8,water,flying
+Braviary,60.7,normal,flying
+Absol,60.5,dark,none
+Slowking (Galarian),60.5,poison,psychic
+Trapinch (Shadow),60.5,ground,none
+Arbok,60.4,poison,none
+Rampardos,60.4,rock,none
+Exploud,60.3,normal,none
+Grumpig,60.3,psychic,none
+Krokorok,60.3,ground,dark
+Rowlet,60.3,grass,flying
+Watchog (Shadow),60.3,normal,none
+Popplio,60.2,water,none
+Loudred,60,normal,none
+Skorupi (Shadow),60,poison,bug
+Snubbull (Shadow),60,fairy,none
+Starmie,60,water,psychic
+Trumbeak,60,normal,flying
+Volbeat,60,bug,none
+Arbok (Shadow),59.6,poison,none
+Blissey,59.6,normal,none
+Shellos,59.6,water,none
+Floatzel,59.3,water,none
+Skorupi,59.3,poison,bug
+Fearow,59.2,normal,flying
+Nosepass,59.2,rock,none
+Whirlipede,59.2,bug,poison
+Crabrawler,59.1,fighting,none
+Oricorio (Baile),59.1,fire,flying
+Porygon-Z,59,normal,none
+Mothim,58.8,bug,flying
+Xatu (Shadow),58.8,psychic,flying
+Mr. Mime,58.7,psychic,fairy
+Pupitar (Shadow),58.7,rock,ground
+Sawsbuck,58.6,normal,grass
+Watchog,58.6,normal,none
+Snubbull,58.5,fairy,none
+Porygon-Z (Shadow),58.4,normal,none
+Nosepass (Shadow),58.3,rock,none
+Aipom,58,normal,none
+Beheeyem,58,psychic,none
+Oricorio (Pa'u),58,psychic,flying
+Shiinotic,57.9,grass,fairy
+Goldeen,57.6,water,none
+Seadra (Shadow),57.6,water,none
+Jynx,57.5,ice,psychic
+Trapinch,57.5,ground,none
+Sigilyph,57.3,psychic,flying
+Xatu,57.2,psychic,flying
+Cubone (Shadow),56.9,ground,none
+Grumpig (Shadow),56.9,psychic,none
+Cacturne,56.8,grass,dark
+Gumshoos,56.6,normal,none
+Pineco (Shadow),56.6,bug,none
+Ambipom,56.5,normal,none
+Piplup,56.5,water,none
+Clawitzer,56.1,water,none
+Herdier,56.1,normal,none
+Elgyem,56,psychic,none
+Pupitar,55.9,rock,ground
+Drowzee,55.8,psychic,none
+Chatot,55.7,normal,flying
+Totodile (Shadow),55.7,water,none
+Cubone,55.6,ground,none
+Mesprit,55.6,psychic,none
+Hoopa,55.5,psychic,ghost
+Clauncher,55.4,water,none
+Drowzee (Shadow),55.4,psychic,none
+Crabominable,55.2,fighting,ice
+Vanilluxe,55,ice,none
+Beautifly,54.9,bug,flying
+Noivern,54.8,flying,dragon
+Cacturne (Shadow),54.6,grass,dark
+Musharna,54.4,psychic,none
+Totodile,54.3,water,none
+Flabebe,54.2,fairy,none
+Swirlix,54.1,fairy,none
+Koffing,53.8,poison,none
+Swanna,53.7,water,flying
+Seadra,53.5,water,none
+Gorebyss,53.4,water,none
+Throh,53.4,fighting,none
+Axew,53.3,dragon,none
+Koffing (Shadow),52.6,poison,none
+Azelf,52.5,psychic,none
+Krabby,52.4,water,none
+Ferroseed,52.3,grass,steel
+Meltan,52.3,steel,none
+Accelgor,51.6,bug,none
+Butterfree,51.4,bug,flying
+Cherrim (Overcast),51.2,grass,none
+Pineco,51,bug,none
+Audino,50.4,normal,none
+Anorith (Shadow),50.2,rock,bug
+Deoxys (Speed),50.1,psychic,none
+Ponyta (Galarian),50.1,psychic,none
+Timburr,48.9,fighting,none
+Tentacool,48.8,water,poison
+Anorith,48.6,rock,bug
+Corphish,48.1,water,none
+Kadabra,46.5,psychic,none
+Reuniclus,44.3,psychic,none
+Duosion,42.9,psychic,none
+Munna,42.4,psychic,none
+Solosis,42.4,psychic,none
+Spoink (Shadow),42.2,psychic,none
+Clefairy,41.5,fairy,none
+Mienfoo,41.4,fighting,none
+Spoink,40.8,psychic,none
+Unown,38.4,psychic,none
+Shaymin (Land),37.3,grass,none
+Slaking,27.1,normal,none
