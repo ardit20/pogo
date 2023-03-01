@@ -1,28 +1,13 @@
 
-# Turn Your Excel File Into A Web App With Python
+# Pokemon GO Streamlit app
 
-In this tutorial, I am going to show you how to convert Excel Files into a Web Application by using the Python Library Streamlit. The beauty of Streamlit is that you can create web applications directly in Python, without needing to know HTML, CSS, or JavaScript. The Web App is fully interactive and will be updated, whenever you make changes in the Excel file.
+The goal of this script is to provide an interactive way to explore the relationship between Pokemon types and their scores.
 
-## Live Demo
-👉 https://surveyresults.pythonandvba.com
+## Libraries
+pandas: used to load and manipulate the Pokemon dataset
+streamlit: used to create the app interface and display the filtered Pokemon dataset and scatterplot
+plotly.express: used to create the scatterplot of Pokemon scores
 
-## Video
+## Description
 
-[![YouTube Video](https://img.youtube.com/vi/7zeAIEPJaoQ/0.jpg)](https://youtu.be/7zeAIEPJaoQ)
-
-
-## Author
-
-- Sven from Coding Is Fun
-- YouTube: https://youtube.com/c/CodingIsFun
-- Website: https://pythonandvba.com
-
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at contact@pythonandvba.com
-
-
-![Logo](https://www.pythonandvba.com/banner-img)
-
+The app allows the user to filter the Pokemon dataset by type using a sidebar radio button, which updates the displayed table and scatterplot. The scatterplot shows Pokemon scores by type, with each point representing a single Pokemon and colored by its secondary type.
